@@ -1,0 +1,14 @@
+C:\Users\aszatko\Documents\C#\student_game\student_game.backend\bin\Debug\netcoreapp2.2\student_game.backend.deps.json
+C:\Users\aszatko\Documents\C#\student_game\student_game.backend\bin\Debug\netcoreapp2.2\student_game.backend.runtimeconfig.json
+C:\Users\aszatko\Documents\C#\student_game\student_game.backend\bin\Debug\netcoreapp2.2\student_game.backend.runtimeconfig.dev.json
+C:\Users\aszatko\Documents\C#\student_game\student_game.backend\bin\Debug\netcoreapp2.2\student_game.backend.dll
+C:\Users\aszatko\Documents\C#\student_game\student_game.backend\bin\Debug\netcoreapp2.2\student_game.backend.pdb
+C:\Users\aszatko\Documents\C#\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.csprojAssemblyReference.cache
+C:\Users\aszatko\Documents\C#\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.csproj.CoreCompileInputs.cache
+C:\Users\aszatko\Documents\C#\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.RazorAssemblyInfo.cache
+C:\Users\aszatko\Documents\C#\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.RazorAssemblyInfo.cs
+C:\Users\aszatko\Documents\C#\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.AssemblyInfoInputs.cache
+C:\Users\aszatko\Documents\C#\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.AssemblyInfo.cs
+C:\Users\aszatko\Documents\C#\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.RazorTargetAssemblyInfo.cache
+C:\Users\aszatko\Documents\C#\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.dll
+C:\Users\aszatko\Documents\C#\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.pdb
