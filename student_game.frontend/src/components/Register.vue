@@ -53,7 +53,7 @@ export default {
 
   methods: {
     registerForm: function (email, nick, password) {
-      axios.post('localhost:5000/api/account/register', {
+      axios.post('http://localhost:5000/api/account/register', {
         email: email,
         username: nick,
         password: password
