@@ -28,7 +28,13 @@
 export default {
   name: 'Login',
   props: {
-  }
+  },
+  data() {
+    return {
+      email: null,
+      password: null
+    }
+  },
 }
 </script>
 
