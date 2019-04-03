@@ -12,3 +12,17 @@ C:\Users\aszatko\Documents\C#\student_game\student_game.backend\obj\Debug\netcor
 C:\Users\aszatko\Documents\C#\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.RazorTargetAssemblyInfo.cache
 C:\Users\aszatko\Documents\C#\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.dll
 C:\Users\aszatko\Documents\C#\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.pdb
+D:\Documents\GitHub\student_game\student_game.backend\bin\Debug\netcoreapp2.2\student_game.backend.deps.json
+D:\Documents\GitHub\student_game\student_game.backend\bin\Debug\netcoreapp2.2\student_game.backend.runtimeconfig.json
+D:\Documents\GitHub\student_game\student_game.backend\bin\Debug\netcoreapp2.2\student_game.backend.runtimeconfig.dev.json
+D:\Documents\GitHub\student_game\student_game.backend\bin\Debug\netcoreapp2.2\student_game.backend.dll
+D:\Documents\GitHub\student_game\student_game.backend\bin\Debug\netcoreapp2.2\student_game.backend.pdb
+D:\Documents\GitHub\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.csprojAssemblyReference.cache
+D:\Documents\GitHub\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.RazorAssemblyInfo.cache
+D:\Documents\GitHub\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.RazorAssemblyInfo.cs
+D:\Documents\GitHub\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.AssemblyInfoInputs.cache
+D:\Documents\GitHub\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.AssemblyInfo.cs
+D:\Documents\GitHub\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.RazorTargetAssemblyInfo.cache
+D:\Documents\GitHub\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.dll
+D:\Documents\GitHub\student_game\student_game.backend\obj\Debug\netcoreapp2.2\student_game.backend.pdb
